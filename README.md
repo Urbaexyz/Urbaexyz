@@ -24,10 +24,10 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/thoriqazzikraa/spotifydl/issues/3#issuecomment-2295323809) in [thoriqazzikraa/spotifydl](https://github.com/thoriqazzikraa/spotifydl)
-2. 🔒 Closed issue [#3](https://github.com/thoriqazzikraa/spotifydl/issues/3) in [thoriqazzikraa/spotifydl](https://github.com/thoriqazzikraa/spotifydl)
-3. ❗ Opened issue [#32](https://github.com/naya1503/Mix-Userbot/issues/32) in [naya1503/Mix-Userbot](https://github.com/naya1503/Mix-Userbot)
-4. 🗣 Commented on [#3](https://github.com/thoriqazzikraa/spotifydl/issues/3#issuecomment-2267661531) in [thoriqazzikraa/spotifydl](https://github.com/thoriqazzikraa/spotifydl)
-5. 🗣 Commented on [#95](https://github.com/The-MoonTg-project/Moon-Userbot/issues/95#issuecomment-2254099995) in [The-MoonTg-project/Moon-Userbot](https://github.com/The-MoonTg-project/Moon-Userbot)
+1. ❗ Opened issue [#20](https://github.com/Mengkodingan/ckptw/issues/20) in [Mengkodingan/ckptw](https://github.com/Mengkodingan/ckptw)
+2. 🗣 Commented on [#3](https://github.com/thoriqazzikraa/spotifydl/issues/3#issuecomment-2295323809) in [thoriqazzikraa/spotifydl](https://github.com/thoriqazzikraa/spotifydl)
+3. 🔒 Closed issue [#3](https://github.com/thoriqazzikraa/spotifydl/issues/3) in [thoriqazzikraa/spotifydl](https://github.com/thoriqazzikraa/spotifydl)
+4. ❗ Opened issue [#32](https://github.com/naya1503/Mix-Userbot/issues/32) in [naya1503/Mix-Userbot](https://github.com/naya1503/Mix-Userbot)
+5. 🗣 Commented on [#3](https://github.com/thoriqazzikraa/spotifydl/issues/3#issuecomment-2267661531) in [thoriqazzikraa/spotifydl](https://github.com/thoriqazzikraa/spotifydl)
 <!--END_SECTION:activity-->
 
