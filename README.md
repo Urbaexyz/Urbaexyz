@@ -24,10 +24,10 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#21](https://github.com/Mengkodingan/ckptw/issues/21) in [Mengkodingan/ckptw](https://github.com/Mengkodingan/ckptw)
-2. ❗ Opened issue [#20](https://github.com/Mengkodingan/ckptw/issues/20) in [Mengkodingan/ckptw](https://github.com/Mengkodingan/ckptw)
-3. 🗣 Commented on [#3](https://github.com/thoriqazzikraa/spotifydl/issues/3#issuecomment-2295323809) in [thoriqazzikraa/spotifydl](https://github.com/thoriqazzikraa/spotifydl)
-4. 🔒 Closed issue [#3](https://github.com/thoriqazzikraa/spotifydl/issues/3) in [thoriqazzikraa/spotifydl](https://github.com/thoriqazzikraa/spotifydl)
-5. ❗ Opened issue [#32](https://github.com/naya1503/Mix-Userbot/issues/32) in [naya1503/Mix-Userbot](https://github.com/naya1503/Mix-Userbot)
+1. 🗣 Commented on [#21](https://github.com/Mengkodingan/ckptw/issues/21#issuecomment-2324696832) in [Mengkodingan/ckptw](https://github.com/Mengkodingan/ckptw)
+2. ❗ Opened issue [#21](https://github.com/Mengkodingan/ckptw/issues/21) in [Mengkodingan/ckptw](https://github.com/Mengkodingan/ckptw)
+3. ❗ Opened issue [#20](https://github.com/Mengkodingan/ckptw/issues/20) in [Mengkodingan/ckptw](https://github.com/Mengkodingan/ckptw)
+4. 🗣 Commented on [#3](https://github.com/thoriqazzikraa/spotifydl/issues/3#issuecomment-2295323809) in [thoriqazzikraa/spotifydl](https://github.com/thoriqazzikraa/spotifydl)
+5. 🔒 Closed issue [#3](https://github.com/thoriqazzikraa/spotifydl/issues/3) in [thoriqazzikraa/spotifydl](https://github.com/thoriqazzikraa/spotifydl)
 <!--END_SECTION:activity-->
 
